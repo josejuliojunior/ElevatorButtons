@@ -1,0 +1,27 @@
+.box {
+    width: 50em;
+    height: 100em;
+    border: 2em solid #E1CBBC;
+    padding: 2em;
+    margin: 2em;
+    background-color: red;
+    align-content: center;
+}
+
+.btn {
+  height: 30em;
+  width: 30em;
+  border-radius: 50%;
+  border: 1em solid black;
+  background-color: black;
+  color: red;
+}
+
+.row {
+  height: 4em;
+}
+
+p {
+  height: 1em;
+  color: red;
+}
